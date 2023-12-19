@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://png.pngtree.com/background/20210715/original/pngtree-simple-white-silver-music-note-texture-advertising-background-picture-image_1304058.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tableaustyle{
+    display: block;
+    margin: auto
+}
+li{
+    background-color: rgb(231, 232, 234);
+}
+h1{
+    background-color: black;
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    display: block; 
+}
+.header{
+    position: absolute;
+    top: 25px;
+    display: block;
+    margin: auto
+}
+.footer{
+    position: fixed;
+    bottom: 0px;
+    font-size: medium;
+    background-color: aliceblue;
+}
+.mainstuff{
+    position: absolute;
+    top: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
